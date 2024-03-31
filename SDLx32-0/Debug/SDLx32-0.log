@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\diobu\Documents\GitHub\CSC212danielOnakoya\SDLx32-0\Main.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\diobu\Documents\GitHub\CSC212danielOnakoya\SDLx32-0\Main.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\diobu\Documents\GitHub\CSC212danielOnakoya\SDLx32-0\Main.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\diobu\Documents\GitHub\CSC212danielOnakoya\SDLx32-0\Main.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SDLx32-0.vcxproj -> C:\Users\diobu\Documents\GitHub\CSC212danielOnakoya\SDLx32-0\Debug\SDLx32-0.exe
